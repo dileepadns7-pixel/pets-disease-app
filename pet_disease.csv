@@ -1,0 +1,44 @@
+Pet_Type,Fever,Cough,Vomiting,Diarrhea,Loss_of_Appetite,Lethargy,Sneezing,Skin_Rash,Weight_Loss,Weakness,Limping,Excessive_Thirst,Eye_Discharge,Hair_Loss,Nose_Bleeding,Disease
+Dog,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Parvovirus
+Dog,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Canine Influenza
+Dog,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,Parvovirus
+Dog,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,Canine Influenza
+Dog,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,Generic Infection
+Dog,1,0,0,1,1,1,0,0,1,1,0,0,0,0,0,Parvovirus
+Dog,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,Canine Influenza
+Dog,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,Parvovirus
+Dog,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,Generic Infection
+Dog,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Canine Influenza
+
+Cat,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,Feline Flu
+Cat,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,Feline Panleukopenia
+Cat,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,Feline Flu
+Cat,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,Feline Panleukopenia
+Cat,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,Generic Infection
+Cat,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,Feline Panleukopenia
+Cat,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,Feline Flu
+Cat,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,Feline Panleukopenia
+Cat,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Generic Infection
+Cat,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,Feline Panleukopenia
+
+Cow,1,0,0,1,0,1,0,1,1,1,0,0,0,0,0,Foot & Mouth
+Cow,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,Bovine Viral Diarrhea
+Cow,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,Foot & Mouth
+Cow,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,Bovine Viral Diarrhea
+Cow,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,Foot & Mouth
+Cow,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Bovine Viral Diarrhea
+Cow,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0,Foot & Mouth
+Cow,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Bovine Viral Diarrhea
+Cow,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,Foot & Mouth
+Cow,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,Bovine Viral Diarrhea
+
+Other,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,Generic Infection
+Other,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,Unknown Virus
+Other,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,Generic Infection
+Other,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,Unknown Virus
+Other,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,Generic Infection
+Other,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,Unknown Virus
+Other,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,Generic Infection
+Other,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,Unknown Virus
+Other,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,Generic Infection
+Other,1,0,1,0,1,1,0,0,1,0,0,0,0,0,0,Unknown Virus
