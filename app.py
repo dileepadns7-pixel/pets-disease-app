@@ -177,7 +177,7 @@ choice = st.session_state.page
 # -----------------------------
 # PAGE CONTENT
 # -----------------------------
-add_bg_from_local("background.JPG")
+add_bg_from_local("background.jpg")
 
 if choice == "මුල් පිටුව":
     st.markdown("<h1 style='text-align:center; color:#FFD700;'>🐾 Pet Disease App</h1>", unsafe_allow_html=True)
@@ -248,3 +248,4 @@ st.markdown("""
     }
     </style>
 """, unsafe_allow_html=True)
+
